@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kristian-adi/Guessing-number.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Kristian-adi/Guessing-number.git/static/js/main.ddc74171.js",
+    "static/js/787.e965d903.chunk.js": "/Kristian-adi/Guessing-number.git/static/js/787.e965d903.chunk.js",
+    "index.html": "/Kristian-adi/Guessing-number.git/index.html",
+    "main.e6c13ad2.css.map": "/Kristian-adi/Guessing-number.git/static/css/main.e6c13ad2.css.map",
+    "main.ddc74171.js.map": "/Kristian-adi/Guessing-number.git/static/js/main.ddc74171.js.map",
+    "787.e965d903.chunk.js.map": "/Kristian-adi/Guessing-number.git/static/js/787.e965d903.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ddc74171.js"
+  ]
+}
